@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @klausMistlberger
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning JavaScript
 - 🌱 I’m currently learning HTML/CSS and Javascript
 - 💞️ I’m looking to collaborate on whatever comes around for a start
 - 📫 How to reach me ... 
